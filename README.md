@@ -1,4 +1,4 @@
-### Hi there 👋,  my name is mohammedshafiq c
+### Hi there 👋,  my name is Mommadshafik
 #### I am a passionate Software Engineer
 ![I am a passionate Software Engineer](https://raw.githubusercontent.com/iamsfk/iamsfk/main/WhatsApp%20Image%202021-07-11%20at%203.05.37%20PM.jpeg)
 
