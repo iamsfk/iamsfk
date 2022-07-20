@@ -1,0 +1,18 @@
+Hi Team Good morning
+
+this is code for banking system,which has feature like adding amount , 
+checking balance, withdrawing amount,and transferring amount to the
+ other account 
+so for that here i have done T1 testing, and the scenarios are like
+1)Adding_Funds_Update_Balance()
+2)Adding_Negative_Funds_Throws()
+3)Withdrawing_Funds_Updates_Balance()
+4)Withdrawing_Negative_Funds_Throws()
+5)Withdrawing_More_Than_Balance_Throws()
+6)Transferring_Funds_Updates_Both_Account()
+7)Transferring_To_Non_Existing_Account_Throws()
+
+first of all i have stored bank account balance 1000
+and created a variable named account
+ in the first scenario i have added 500 then the total amount is 1500 
+to validate the here i have used assert.
